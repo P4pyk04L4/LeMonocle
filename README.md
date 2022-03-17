@@ -1,15 +1,12 @@
-### Bonjour cher visiteur 👋
+### Hello there 👋
 
-⏱ Ancien horloger, une nouvelle aventure commence dans le développement !
+⏱ Former watchmaker, a new adventure begins in development!
 
-Dans l'attente de commencer ma formation de Développeur Web et Web Mobile (RNCP 5 - Bac +2) à l'ENI - Ecole Informatique,
-je prends de l'avance sur le programme via des cours sur OpenClassrooms.
+Waiting to start my Web and Mobile Web Developer training (RNCP 5 - Bac +2) at ENI - Ecole Informatique, I'm getting ahead of the program via courses on OpenClassrooms.
 
-De nombreux projets sont en cours de préparation, stay in touch !
+Many projects are in the works, stay in touch!
 
-👨‍💻 Vous pouvez me joindre via mon profil LinkedIn ! https://www.linkedin.com/in/nicolas-charriere-duthoit/
-
-
+👨‍💻 You can reach me via my LinkedIn profile  https://www.linkedin.com/in/nicolas-charriere-duthoit/
 
 <img align="left" alt="html5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
