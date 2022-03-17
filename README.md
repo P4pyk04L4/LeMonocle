@@ -7,7 +7,7 @@ je prends de l'avance sur le programme via des cours sur OpenClassrooms.
 
 De nombreux projets sont en cours de préparation, stay in touch !
 
-👨‍💻 Vous pouvez me joindre via mon profil LinkedIn ! https://www.linkedin.com/in/nicolas-charriere-duthoit/
+👨‍💻 Vous pouvez me joindre via mon profil LinkedIn ! 
  
- 
+[![linkedin](./Icon/linkedin32px.png)](https://www.linkedin.com/in/nicolas-charriere-duthoit/)
 
