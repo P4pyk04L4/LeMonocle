@@ -4,7 +4,7 @@
 
 Waiting to start my Web and Mobile Web Developer training (RNCP 5 - Bac +2) at ENI - Ecole Informatique, I'm getting ahead of the program via courses on OpenClassrooms.
 
-Many projects are in the works, stay in touch!
+Many projects are in the works, stay in touch !
 
 👨‍💻 You can reach me via my LinkedIn profile  https://www.linkedin.com/in/nicolas-charriere-duthoit/
 
