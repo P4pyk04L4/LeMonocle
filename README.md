@@ -2,7 +2,7 @@
 
 ⏱ Former watchmaker, a new adventure begins in development!
 
-Waiting to start my Web and Mobile Web Developer training (RNCP 5 - Bac +2) at ENI - Ecole Informatique, I'm getting ahead of the program via courses on OpenClassrooms.
+Waiting to start my Web and Mobile Web Developer training (RNCP 5 - Bac +2) at ENI - Ecole Informatique, I'm getting ahead of the program via courses on OpenClassrooms and Udemy.
 
 Many projects are in the works, stay in touch !
 
