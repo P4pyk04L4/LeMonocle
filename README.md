@@ -24,5 +24,8 @@ Many projects are in the works, stay in touch !
 <img align="left" alt="sqlserver" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="android" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
 <img align="left" alt="php" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+<br/>
 
+#### TryHackMe learning progress
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/nclscharr.png" alt="TryHackMe">
