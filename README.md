@@ -8,7 +8,7 @@ Many projects are in the works, stay in touch !
 
 👨‍💻 You can reach me via my LinkedIn profile  https://www.linkedin.com/in/nicolas-charriere-duthoit/
 
-#### Currents languages...
+#### Currents languages and frameworks...
 
 <img align="left" alt="html5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css3" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -16,7 +16,6 @@ Many projects are in the works, stay in touch !
 <img align="left" alt="java" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="sqlserver" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img align="left" alt="git" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="wordpress" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 <br/>
  
 #### Next learning process
